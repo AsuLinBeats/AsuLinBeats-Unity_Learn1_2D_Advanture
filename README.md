@@ -1,5 +1,6 @@
 # AsuLinBeats-Unity_Learn1_2D_Advanture
 
+### This is for recording my learning and application only, from UoW
 
 ## This game is a basic 2D pixel advanture game with basic function based on Unity using C Sharp.
 ### it achieves:
